@@ -1,4 +1,4 @@
-# jweltryapp
+# Uses Google ml toolkit for making the face mesh
 
 A new Flutter project.
 
